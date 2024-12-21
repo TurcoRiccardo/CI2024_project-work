@@ -47,6 +47,8 @@ Algorithm that takes an Individual as input and modifies it by eliminating usele
 - double negative
 - exponential of the logarithm
 - logarithm of the exponential
+- square root of the square
+- square of the square root
 
 ## Initial Population
 The algorithm generate a random initial population with minimal dimension of the Individual equal to the number of value in the X dataset
