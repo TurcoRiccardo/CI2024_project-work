@@ -19,6 +19,8 @@ The algorithm takes as input a file containing a dataset with the X values â€‹â€
     - exp
     - log
     - sqrt
+    - abs
+    - pow2
 
 ## Parent Selection
 For parent selection we use Tournament Selection

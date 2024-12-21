@@ -18,7 +18,7 @@ def f2(x: np.ndarray) -> np.ndarray:
     return (x[1]**(x[0] + 11)) / (x[1]**(-(x[0] - x[2])))
 
 def f3(x: np.ndarray) -> np.ndarray:
-    return np.exp(np.tan(x[1])) - ((x[2] + x[0] - 17) / (x[1] / x[2]))
+    return np.exp(4) + (-((12 + 4) * x[0]) / (x[1] + 1)) - np.exp(np.abs(x[1])) / x[2]
 
 def f4(x: np.ndarray) -> np.ndarray:
     return np.cos(np.exp(x[1]*x[0])) + np.exp(np.exp(((x[1] - 3) / (3 * x[0])) - 2))
