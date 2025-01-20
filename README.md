@@ -1,4 +1,4 @@
-# Simbolic Regression
+# Symbolic Regression
 Symbolic regression (SR) is a type of regression analysis that searches the space of mathematical expressions to find the model that best fits a given dataset, both in terms of accuracy and simplicity. In this solution we use a Genetic Programming algorithm to find the expected expression based on the MSE (Mean Square Error) value.
 
 ## Input Dataset
