@@ -54,4 +54,4 @@ Algorithm that takes an Individual as input and modifies it by eliminating usele
 The algorithm generate a random initial population with minimal dimension of the Individual equal to the number of value in the X dataset
 
 ## Genetic Programming Algorithm
-We use a Tree-based Genetic Programming to find the solution, we generate two new offspring taking 2 parent whit Parent Selection, we perform crossover between the first and second parent and between the second and first parent, we apply the mutation on the results of the crossover operations and we apply the simplification to the result of the mutation. After we evaluate the fitness and we insert the ofspring in the population.
+We use a Tree-based Genetic Programming to find the solution, we generate two new offspring taking 2 parent with Parent Selection, we perform crossover between the first and second parent and between the second and first parent, we apply the mutation on the results of the crossover operations and we apply the simplification to the result of the mutation. After we evaluate the fitness and we insert the offspring in the population.
